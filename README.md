@@ -3,8 +3,8 @@
 # Nombre del proyecto
 
 ## Estudiantes
-Nombres completos (en primer lugar el trabajo más, en último el que va a reprobar)
-Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: correo1@tectijuana.edu.mx; correo2@tectijuana.edu.mx correo3@tectijuana.edu.mx
+Miriam Sarahí Reyes Galvan, Brenda Mancilla Chavez, Felix Gastelum Jesus Efren
+Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: Jesus.felix201@tectijuana.edu.mx;  L21212174@tectijuana.edu.mx L21212745@tectijuana.edu.mx
 
 ## Asignaturas o departmento donde se puede usar la Actividad
 Modelado de Sistemas Fisiológicos de Ingeniería Biomédica
@@ -18,7 +18,8 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 Diseñar un gemelo digital de un sistema fisiológico que permita identificar las diferencias entre un paciente afectado por una enfermedad (caso) y un individuo saludable (control) para desarrollar un protocolo de tratamiento mediante un sistema de control en lazo cerrado.
 
 ## Descripción detallada del sistema
-...
+El sistema cefalorraquídeo (SNC) incluye varias estructuras clave que trabajan juntas para proteger y facilitar el funcionamiento del sistema nervioso central (SNC), que comprende el cerebro y la médula espinal.
+Se compone del Líquido cefalorraquídeo, el cual es un líquido claro e incoloro que rodea y circula por el cerebro y la médula espinal, se produce principalmente en los plexos coroideos de los ventrículos cerebrales (en el cerebro) y funciona como amortiguador, protegiendo el SNC de golpes y traumatismos, así como ayuda a mantener un ambiente químico estable, eliminando desechos metabólicos y proporcionando nutrientes esenciales.
 
 ## Referencias principales
 [1] H. Motulsky, Intuitive biostatistics: a nonmathematical guide to statistical thinking. 4th ed. Oxford, New York, USA: Oxford University Press, 2014.
