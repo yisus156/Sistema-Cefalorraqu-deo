@@ -1,0 +1,40 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Líquido Cefalorraquídeo '
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jesus Efren Felix Gastelum
+    email: Jesus.felix201@tectijuana.edu.mx
+  - given-names: 'Brenda '
+    email: L21212745@tectijuana.edu.mx
+    family-names: 'Mancilla Chavez '
+  - given-names: 'Miriam '
+    family-names: 'Reyes Galvan '
+    email: L21212174@tectijuana.edu.mx
+identifiers:
+  - type: url
+    value: 'https://github.com/yisus156/Sistema-Cefalorraqu-deo'
+    description: 'Líquido cefalorraquídeo: Hidrocefalia '
+repository-code: 'https://github.com/yisus156/Sistema-Cefalorraqu-deo'
+abstract: >-
+  El análisis del sistema de circulación del líquido
+  cefalorraquídeo permitió entender cómo parámetros como
+  resistencias y capacitancias afectan el flujo y la
+  presión. Este modelo es clave para optimizar tratamientos
+  como las válvulas de derivación en la hidrocefalia, una
+  condición causada por la acumulación anormal de líquido en
+  el cerebro. Los resultados confirman que el sistema es
+  estable y que puede regular adecuadamente la presión
+  intracraneal, previniendo daños neurológicos. Además, un
+  controlador proporcional-integral (PI) es suficiente para
+  optimizar su respuesta, validando tratamientos actuales y
+  abriendo puertas a nuevas estrategias médicas.
+keywords:
+  - >-
+    Hidrocefalia, Líquido cefalorraquídeo, Tratamiento,
+    Caso, Control. 
